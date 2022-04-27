@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cce26cde0d8017c4f8cc58f3b5a13a25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - para: {instanceID: 0}
+  - speedbar1: {instanceID: 0}
+  - speedbar2: {instanceID: 0}
+  - speedbar3: {instanceID: 0}
+  - speedbar4: {instanceID: 0}
+  - speedbuybtn1: {instanceID: 0}
+  - speedbuybtn2: {instanceID: 0}
+  - speedbuybtn3: {instanceID: 0}
+  - speedbuybtn4: {instanceID: 0}
+  - notenough: {instanceID: 0}
+  - bought: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

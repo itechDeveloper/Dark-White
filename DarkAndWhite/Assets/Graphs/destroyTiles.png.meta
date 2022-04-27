@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: b6b2a658c53675a4fa0ca0e4b8109ed7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4795739457487099920
+    second: destroyTiles_0
+  - first:
+      213: 8600911757529464244
+    second: destroyTiles_1
+  - first:
+      213: -7519318448615650145
+    second: destroyTiles_2
+  - first:
+      213: -8687123221008559006
+    second: destroyTiles_3
+  - first:
+      213: -7871094124065516690
+    second: destroyTiles_4
+  - first:
+      213: -2248029509832264884
+    second: destroyTiles_5
+  - first:
+      213: -1397781970552999019
+    second: destroyTiles_6
+  - first:
+      213: 1966050268166044040
+    second: destroyTiles_7
+  - first:
+      213: -2511350088099515917
+    second: destroyTiles_8
+  - first:
+      213: 6596788421205773968
+    second: destroyTiles_9
+  - first:
+      213: 4347454799936981232
+    second: destroyTiles_10
+  - first:
+      213: -5909784832355072646
+    second: destroyTiles_11
+  - first:
+      213: -8273780538330912092
+    second: destroyTiles_12
+  - first:
+      213: 4612297218001221406
+    second: destroyTiles_13
+  - first:
+      213: -3248438679614016161
+    second: destroyTiles_14
+  - first:
+      213: -9131838538828823361
+    second: destroyTiles_15
+  - first:
+      213: 1735350171646493323
+    second: destroyTiles_16
+  - first:
+      213: 1621707033149044477
+    second: destroyTiles_17
+  - first:
+      213: 4333115927994124506
+    second: destroyTiles_18
+  - first:
+      213: 3927799443961297656
+    second: destroyTiles_19
+  - first:
+      213: 3809188277383503294
+    second: destroyTiles_20
+  - first:
+      213: -2401087833390438414
+    second: destroyTiles_21
+  - first:
+      213: -4529972542035189154
+    second: destroyTiles_22
+  - first:
+      213: -5998960956769490008
+    second: destroyTiles_23
+  - first:
+      213: 1451514125050293948
+    second: destroyTiles_24
+  - first:
+      213: -4164730132087921995
+    second: destroyTiles_25
+  - first:
+      213: -5351273708273207937
+    second: destroyTiles_26
+  - first:
+      213: 6544728409126847888
+    second: destroyTiles_27
+  - first:
+      213: -8715043851523712857
+    second: destroyTiles_28
+  - first:
+      213: -3979343156491188765
+    second: destroyTiles_29
+  - first:
+      213: 5941567027616964924
+    second: destroyTiles_30
+  - first:
+      213: 8099812861197148085
+    second: destroyTiles_31
+  - first:
+      213: 7855460999188076657
+    second: destroyTiles_32
+  - first:
+      213: 6886780463074422495
+    second: destroyTiles_33
+  - first:
+      213: 3644906350374138595
+    second: destroyTiles_34
+  - first:
+      213: 7679038194494911664
+    second: destroyTiles_35
+  - first:
+      213: 7670005094451273411
+    second: destroyTiles_36
+  - first:
+      213: 958228137635608492
+    second: destroyTiles_37
+  - first:
+      213: -4654177552720879487
+    second: destroyTiles_38
+  - first:
+      213: 6121273035992881580
+    second: destroyTiles_39
+  - first:
+      213: -5507668702808094751
+    second: destroyTiles_40
+  - first:
+      213: -6734960541854425608
+    second: destroyTiles_41
+  - first:
+      213: 8306774136805473661
+    second: destroyTiles_42
+  - first:
+      213: 9144879219908335797
+    second: destroyTiles_43
+  - first:
+      213: 6792899295778442060
+    second: destroyTiles_44
+  - first:
+      213: -3122152099824930621
+    second: destroyTiles_45
+  - first:
+      213: -8704588952975853074
+    second: destroyTiles_46
+  - first:
+      213: 7948630995701615825
+    second: destroyTiles_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: destroyTiles_0
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2734
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018d7dea0a3ed8240800000000000000
+      internalID: 4795739457487099920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destroyTiles_1
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 2734
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd36048ca39c5770800000000000000
+      internalID: 8600911757529464244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destroyTiles_2
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 2734
+        width: 236
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0935c5b306a790800000000000000
+      internalID: -7519318448615650145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destroyTiles_3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1598
+        width: 82
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264dcb3f473217780800000000000000
+      internalID: -8687123221008559006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destroyTiles_4
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1150
+        width: 427
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e631965d89144c290800000000000000
+      internalID: -7871094124065516690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destroyTiles_6
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1114
+        width: 486
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5933ebb14b41a9ce0800000000000000
+      internalID: -1397781970552999019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destroyTiles_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 127
+        width: 538
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88939946d40d84b10800000000000000
+      internalID: 1966050268166044040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: destroyTiles_8
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 121
+        width: 553
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1be2c8664e52dd0800000000000000
+      internalID: -2511350088099515917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

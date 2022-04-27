@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 20ec3c9c79d466e48adedcc8afe8df01
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 0c3dccf8db5dc8641bbc95f5d5f85cdb
+  - enabled: 1
+    path: Assets/Scenes/MertCalismaAlani.unity
+    guid: a225de148e7fa024c8b787202d1fa665
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 3e2997d3da516874b818de187b798acf
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: f93df458318711643b43bfe9d86eba5e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial3.unity
+    guid: 804a3a3af402e1546af8ed0ef2497839
+  - enabled: 1
+    path: Assets/Scenes/Tutorial4.unity
+    guid: a0f36d6ad0b3ba741a2666ae506b2bd0
+  - enabled: 1
+    path: Assets/Scenes/Tutorial5.unity
+    guid: 020052765af76694c942a4037f4efd58
+  - enabled: 1
+    path: Assets/Scenes/TutorialDeneme.unity
+    guid: 1e8e7a814a566144dbe76fea818b8a9f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
